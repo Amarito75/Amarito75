@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on **My porfolio !**
 
-- 🌱 I’m currently learning **Flask**
+- 🌱 I’m currently learning:  **Flask**
 
-- 💬 Ask me about **React, Node, three js**
+- 💬 Ask me about: **React, Node, three js**
 
-- 📫 How to reach me **a.matallah767@gmail.com**
+- 📫 How to reach me : **a.matallah767@gmail.com**
 
-- 📄 Know about my experiences [Currently I work in a big telecommunication compagny as a fullstack developer.](Currently I work in a big telecommunication compagny as a fullstack developer.)
+- 📄 Know about my experiences: Currently I work in a big telecommunication compagny as a fullstack developer.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
