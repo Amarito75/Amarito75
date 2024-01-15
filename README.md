@@ -11,7 +11,7 @@
 
 - 💬 Ask me about: **React, Node, three js**
 
-- 📫 How to reach me : **a.matallah767@gmail.com**
+- 📫 How to reach me : <a href="mailto:amar.matallah75@gmail.com">**amar.matallah75@gmail.com**</a>
 
 - 📄 Know about my experiences: Currently I work in a big telecommunication compagny as a fullstack developer.
 
